@@ -1,0 +1,12 @@
+extends:
+  - eslint-config-skbkontur-keforms
+settings:
+  flowtype:
+    onlyFilesWithFlowAnnotation: true
+rules:
+  no-confusing-arrow: off
+  no-console: off
+  no-magic-numbers: off
+  no-mixed-operators: off
+  object-property-newline: off
+  import/unambiguous: off
