@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "eslint-config-skbkontur-keforms": "^0.12.0"
+  },
+  "dependencies": {
+    "ansi": "^0.3.1"
   }
 }
